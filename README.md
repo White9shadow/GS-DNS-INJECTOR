@@ -7,7 +7,7 @@ After downloading the zip , open magisk manager app than flash and reboot
 ## Download 📲
 You can download GS-DNS-INJECTOR from the following:
 
-• [Pling](https://www.pling.com/p/1943570/)
+• [Official Website](https://www.godtspeed.xyz/2023/06/gs-dns-injector-revolution-in-dns.html)
 
 • [PAYPAL](https://paypal.me/revGSM)
 
